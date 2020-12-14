@@ -17,6 +17,6 @@
   
   <servlet-mapping>
   	<servlet-name>SCoffee</servlet-name>
-  	<url-pattern>/SelectCoffee.php</url-pattern>
+  	<url-pattern>/SelectCoffee.do</url-pattern>
   </servlet-mapping>
 </web-app>
